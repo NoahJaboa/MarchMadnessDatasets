@@ -1,0 +1,64 @@
+GAME_ID,TEAM_A,TEAM_B,ROUND,WINNER_FEEDS_GAME,WINNER_FEEDS_SLOT
+1,Connecticut,Stetson,64,33,TEAM_A
+2,Florida Atlantic,Northwestern,64,33,TEAM_B
+3,San Diego St.,UAB,64,34,TEAM_A
+4,Auburn,Yale,64,34,TEAM_B
+5,BYU,Duquesne,64,35,TEAM_A
+6,Illinois,Morehead St.,64,35,TEAM_B
+7,Washington St.,Drake,64,36,TEAM_A
+8,Iowa St.,South Dakota St.,64,36,TEAM_B
+9,North Carolina,Wagner,64,37,TEAM_A
+10,Mississippi St.,Michigan St.,64,37,TEAM_B
+11,Saint Mary's,Grand Canyon,64,38,TEAM_A
+12,Alabama,College of Charleston,64,38,TEAM_B
+13,Clemson,New Mexico,64,39,TEAM_A
+14,Baylor,Colgate,64,39,TEAM_B
+15,Dayton,Nevada,64,40,TEAM_A
+16,Arizona,Long Beach St.,64,40,TEAM_B
+17,Houston,Longwood,64,41,TEAM_A
+18,Nebraska,Texas A&M,64,41,TEAM_B
+19,Wisconsin,James Madison,64,42,TEAM_A
+20,Duke,Vermont,64,42,TEAM_B
+21,Texas Tech,North Carolina St.,64,43,TEAM_A
+22,Kentucky,Oakland,64,43,TEAM_B
+23,Florida,Colorado,64,44,TEAM_A
+24,Marquette,Western Kentucky,64,44,TEAM_B
+25,Purdue,Grambling St.,64,45,TEAM_A
+26,Utah St.,TCU,64,45,TEAM_B
+27,Gonzaga,McNeese St.,64,46,TEAM_A
+28,Kansas,Samford,64,46,TEAM_B
+29,South Carolina,Oregon,64,47,TEAM_A
+30,Creighton,Akron,64,47,TEAM_B
+31,Texas,Colorado St.,64,48,TEAM_A
+32,Tennessee,Saint Peter's,64,48,TEAM_B
+33,TBD,TBD,32,49,TEAM_A
+34,TBD,TBD,32,49,TEAM_B
+35,TBD,TBD,32,50,TEAM_A
+36,TBD,TBD,32,50,TEAM_B
+37,TBD,TBD,32,51,TEAM_A
+38,TBD,TBD,32,51,TEAM_B
+39,TBD,TBD,32,52,TEAM_A
+40,TBD,TBD,32,52,TEAM_B
+41,TBD,TBD,32,53,TEAM_A
+42,TBD,TBD,32,53,TEAM_B
+43,TBD,TBD,32,54,TEAM_A
+44,TBD,TBD,32,54,TEAM_B
+45,TBD,TBD,32,55,TEAM_A
+46,TBD,TBD,32,55,TEAM_B
+47,TBD,TBD,32,56,TEAM_A
+48,TBD,TBD,32,56,TEAM_B
+49,TBD,TBD,16,57,TEAM_A
+50,TBD,TBD,16,57,TEAM_B
+51,TBD,TBD,16,58,TEAM_A
+52,TBD,TBD,16,58,TEAM_B
+53,TBD,TBD,16,59,TEAM_A
+54,TBD,TBD,16,59,TEAM_B
+55,TBD,TBD,16,60,TEAM_A
+56,TBD,TBD,16,60,TEAM_B
+57,TBD,TBD,8,61,TEAM_A
+58,TBD,TBD,8,61,TEAM_B
+59,TBD,TBD,8,62,TEAM_A
+60,TBD,TBD,8,62,TEAM_B
+61,TBD,TBD,4,63,TEAM_A
+62,TBD,TBD,4,63,TEAM_B
+63,TBD,TBD,2,null,null
